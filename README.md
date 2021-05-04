@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @burton98 (Tony Alexander)
 - 👀 I’m interested in decentralized entities, cryptocurrency, IOTA, and provably fair data.
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on every day implemenations on IOTA.
+- 💞️ I’m looking to collaborate on every day implementations on IOTA.
 - 📫 How to reach me via Email: tonyalexander321@gmail.com, Discord: UnrealSanctum#5352
 
 <!---
